@@ -17,4 +17,3 @@ class SentimentAnalyzer:
         except Exception as e:
             self.logger.error(f"Error occurred during sentiment analysis: {e}")
             raise 
-
