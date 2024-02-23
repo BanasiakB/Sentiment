@@ -39,6 +39,12 @@ sentiment -t "Some text"
 sentiment -f "some/folder/textfile.txt" -o "some/folder/output_file.txt"
 ```
 
+(or)
+
+```sh
+sentiment -f "some/folder/textfile.txt" > "some/folder/output_file.txt"
+```
+
 ### Disclaimer
 
 sometimes the sentiment command doesn't work in windows if the package is installed globally.
