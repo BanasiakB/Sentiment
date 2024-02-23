@@ -5,7 +5,7 @@ python cli program to analyze sentiment in text
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usageexample)
+- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Installation
@@ -23,7 +23,7 @@ pip3 install sentiment
 pip install sentiment
 ```
 
-## Usage example
+## Usage
 
 ### To get help with commandline arguments
 
