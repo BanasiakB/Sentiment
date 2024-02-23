@@ -9,12 +9,10 @@ class OutputHandler:
     def print_sentiment_score(self, sentiment_score: dict) -> None:
         try:
             output_text = f"Sentiment Analysis Result:\nLabel: {sentiment_score['label']}\nScore: {sentiment_score['score']}\n"
-            
             if self.output_filepath:
                 self._print_to_file(output_text, self.output_filepath)
             else:
                 self._print_to_console(output_text)
-            
         except Exception as e:
             self.logger.error(f"Error occurred while printing sentiment score: {e}")
             raise
