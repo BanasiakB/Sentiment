@@ -3,6 +3,7 @@ import logging
 
 logger = logging.getLogger(__name__)
 
+
 class UnsupportedFileTypeException(Exception):
     pass
 
@@ -21,7 +22,6 @@ def parse_args():
         type=str,
         help="Request text",
     )
-
     ap.add_argument(
         "-o", 
         "--output_file", 
