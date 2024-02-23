@@ -1,3 +1,13 @@
+# Sentiment
+
+python cli program to analyze sentiment in text
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
 ## Installation
 
 pip install this repo.
