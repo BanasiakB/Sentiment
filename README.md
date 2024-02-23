@@ -5,7 +5,7 @@ python cli program to analyze sentiment in text
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#usageexample)
 - [Contributing](#contributing)
 
 ## Installation
