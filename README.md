@@ -43,6 +43,12 @@ sentiment -f "some/folder/textfile.txt"
 sentiment -t "Some text"
 ```
 
+### Print output into terminal
+
+```sh
+sentiment -f "some/folder/textfile.txt""
+```
+
 ### Save output into file
 
 ```sh
