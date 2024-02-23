@@ -1,7 +1,7 @@
 from log import setup_log
 from reader import parse_args, read_text
-from model import SentimentAnalyzer
 from output import OutputHandler
+from model import SentimentAnalyzer
 
 def main():
     setup_log()
