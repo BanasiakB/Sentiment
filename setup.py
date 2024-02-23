@@ -15,7 +15,7 @@ setup(
     description="python cli program to analyze sentiment in text",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/BanasiakB/sentiment",
+    url="https://github.com/BanasiakB/Sentiment",
     author="BanasiakB",
     author_email="b.banasiak2000@icloud.com",
     license="MIT",
