@@ -69,8 +69,6 @@ pip3 install -r requirements.txt
 
 ## Meta
 
-B. Banasiak – b.banasiak2000@icloud.com
-
 Distributed under the MIT license. See `LICENSE` for more information.
 
 [https://github.com/BanasiakB/](https://github.com/BanasiakB/)
