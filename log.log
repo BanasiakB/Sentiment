@@ -1,2 +1,0 @@
-2024-02-23 12:53:25,815 - tensorflow - WARNING - From C:\Users\Bogdan\Desktop\OwnProjects\Sentiment\myenv\lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
-
